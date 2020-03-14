@@ -19,7 +19,6 @@ import {AppComponent} from './app.component';
     MatIconModule
   ],
   declarations: [AppComponent],
-  bootstrap:    [AppComponent],
-  entryComponents: [NgxPickaPeriodComponent]
+  bootstrap:    [AppComponent]
 })
 export class AppModule { }
